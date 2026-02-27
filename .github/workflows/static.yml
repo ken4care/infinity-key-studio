@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Infinity Key Studio</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<div class="overlay">
+  <h1>INFINITY KEY</h1>
+  <p>Every pain holds a door.</p>
+  <button onclick="enterPortal()">Enter Portal</button>
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>
